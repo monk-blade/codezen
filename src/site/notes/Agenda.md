@@ -1,0 +1,44 @@
+---
+{"dg-publish":true,"permalink":"/agenda/","tags":"gardenEntry"}
+---
+
+# Objectives
+- Learn basic scripting - [[Linux/shell\|shell]] and commands
+- personal [[Linux/dotfiles\|dotfiles]] repository
+- theme - workspace
+- Code Projects
+	- Create Input Method Engine based on Google Transliteration API and Xlit lib API
+	- Create recipes of pending sites and sources - Kindle Calibre
+- Learn Obsidian
+	- plugin ecosystem
+		- templater
+		- tasks
+		- excalidraw
+	- Learn dataview(js)
+	- Make dasboard
+- Learn [[Linux/nvim\|nvim]]
+	- Basic commands
+	- plugin ecosystem
+	- dotfiles  
+	- pkg manager
+- Learn [[Linux/emacs\|emacs]]
+	- Basic commands
+	- plugin ecosystem
+	- dotfiles 
+	- pkg manager
+- Learn CTFs
+	- capture the flags
+- Learn languages
+	- python
+	- go lang
+	- javascript
+	- rust
+- Learn docker and learn automation through n8n.io & node-red
+- [x] Setup Raspberry Pi with SSD 
+	- [x] Setup qBittorent docker setup
+	- [x] Setup samba with docker
+	- [x] Setup gitea 
+	- [ ] Learn reverse proxy and make local - reverse proxy manager
+- Setup Ubuntu Pro on my machine
+- Publishing Obsidian on Github
+	- Good looking digital garden - https://github.com/jackyzha0/quartz
