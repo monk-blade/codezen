@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta+Vaani&display=swap');
 body {
     /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
@@ -10,11 +11,9 @@ body {
     //  h1 {
     //   color: black;
     //  }
-    body {
-      font-family: 'Rasa';
+    font-family: 'Mukta Vaani', sans-serif;
+      ul.task-list {
+        list-style: circle;
+        padding-left: 15px;
     }
-    ul.task-list {
-      list-style: circle;
-      padding-left: 15px;
-  }
 }
