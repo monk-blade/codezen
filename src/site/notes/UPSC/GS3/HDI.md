@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/gs-3/hdi/"}
+{"dg-publish":true,"permalink":"/upsc/gs-3/hdi/","dgShowBacklinks":true}
 ---
 
 # Human Development Index (માનવ વિકાસ સૂચકાંક)
