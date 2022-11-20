@@ -6,7 +6,8 @@
 source : [Explained | What is ‘greenwashing’? (thehindu.com)](read://https_www.thehindu.com/?url=https%3A%2F%2Fwww.thehindu.com%2Fsci-tech%2Fenergy-and-environment%2Fexplained-what-is-greenwashing%2Farticle66120116.ece)
 
 તાજેતરમાં જ યુએન સેક્રેટરી જનરલે ખાનગી કોર્પોરેશનોને ચેતવણી આપી છે કે તેઓ ગ્રીન વોશિંગની
-પ્રથા બંધ કરે અને એક વર્ષમાં તેમની પ્રેક્ટિસમાં સુધારો કરે. સેક્રેટરી જનરલે તેને લગતી કવાયત પર નજીકથી દેખરેખ રાખવા માટે નિષ્ણાત જૂથની રચના કરવાનો પણ નિર્દેશ આપ્યો છે.
+પ્રથા બંધ કરે અને એક વર્ષમાં તેમની પ્રેક્ટિસમાં સુધારો કરે. 
+
 Greenwashing involves **making an unsubstantiated claim to deceive consumers into believing that a company's products are environmentally friendly or have a greater positive environmental impact than is true**.
 
 ## ગ્રીનવોશિંગ
@@ -25,3 +26,5 @@ Greenwashing involves **making an unsubstantiated claim to deceive consumers in
 ## કાર્બન ક્રેડિટ [[Environment\|Environment]]
 
 * કાર્બન કેડિટ (જેને કાર્બન ઓફસેટ તરીકે પણ ઓળખવામાં આવે છે) એ વાતાવરણમાં ગ્રીનહાઉસ ઉત્સર્જન ઘટાડવા માટેનું ક્રેડિટ છે, જેનો ઉપયોગ સરકારો, ઉદ્યોગો અથવા વ્યક્તિઓ દ્વારા ઉત્સર્જનની ભરપાઈ કરવા માટે
+
+  
